@@ -3,6 +3,11 @@
 📊 Mobile Sales Dashboard: Uncovering the Insights
 Welcome to the Mobile Sales Dashboard, a comprehensive overview of mobile sales performance across different regions, models, and months. Let’s walk through the key takeaways:
 
+
+![Screenshot 2025-04-09 132828](https://github.com/user-attachments/assets/c44459e1-0a96-4853-90e4-342ed1ab34e2)
+
+
+
 🏆 High-Level Performance
 Total Sales: An impressive ₹769 million in mobile sales.
 
